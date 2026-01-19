@@ -27,7 +27,7 @@
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=glowhub-1028">
-          <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=glowhub-1028&theme=gotham&hide_border=true" alt="GitHub Streak Stats">
+          <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=glowhub-1028&theme=gotham&hide_border=true" alt="GitHub Streak Stats">
         </a>
       </td>
     </tr>
@@ -36,7 +36,7 @@
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glowhub-1028">
-          <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glowhub-1028&theme=gotham&hide_border=true" alt="Profile Details"/>
+          <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glowhub-1028&theme=gotham&hide_border=true" alt="Profile Details"/>
         </a>
       </td>
     </tr>
@@ -48,12 +48,12 @@
     <tr>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowhub-1028">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowhub-1028&theme=gotham&hide_border=true" alt="Repos per Language"/>
+          <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowhub-1028&theme=gotham&hide_border=true" alt="Repos per Language"/>
         </a>
       </th>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowhub-1028">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowhub-1028&theme=gotham&hide_border=true" alt="Most Commit Language"/>
+          <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowhub-1028&theme=gotham&hide_border=true" alt="Most Commit Language"/>
         </a>
       </th>
     </tr>
@@ -62,12 +62,12 @@
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glowhub-1028">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glowhub-1028&theme=gotham&hide_border=true" alt="GitHub Stats"/>
+          <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glowhub-1028&theme=gotham&hide_border=true" alt="GitHub Stats"/>
         </a>
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=glowhub-1028">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=glowhub-1028&theme=gotham&hide_border=true" alt="Productive Time"/>
+          <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=glowhub-1028&theme=gotham&hide_border=true" alt="Productive Time"/>
         </a>
       </td>
     </tr>
