@@ -24,11 +24,11 @@
 <!-- skill -->
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
       <br>Javascript
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
     <td align="center" width="90">
@@ -40,19 +40,19 @@
       <br>Solidity
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="cpp" />
       <br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="GoLang" />
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
       <br>GoLang
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
     </td>
     <td align="center" width="90">
@@ -60,56 +60,56 @@
       <br>Ruby
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
-      <br>Java
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="java" />
+      <br>java
     </td>
   </tr>
   <!-- network -->
 <tr>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/solana.png" height="45" alt="Solana">
+    <img src="./icons/solana.png" height="45" >
     <br>Solana
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/ethereum.png" height="45" alt="Ethereum">
+    <img src="./icons/ethereum.png" height="45" >
     <br>Ethereum
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/Bitcoin.svg" height="45" alt="Bitcoin">
+    <img src="./icons/Bitcoin.svg" height="45" >
     <br>Bitcoin
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/aptos1.png" height="45" alt="Aptos">
+    <img src="./icons/aptos1.png" height="45" >
     <br>Aptos
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/polkadot1.png" height="45" alt="Polkadot">
+    <img src="./icons/polkadot1.png" height="45" >
     <br>Polkadot
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/cosmos.png" height="45" alt="Cosmos">
+    <img src="./icons/cosmos.png" height="45" >
     <br>Cosmos
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/polygon1.png" height="45" alt="Polygon">
+    <img src="./icons/polygon1.png" height="45" >
     <br>Polygon
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/ton.png" height="45" alt="Ton">
+    <img src="./icons/ton.png" height="45" >
     <br>Ton
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/trx.png" height="45" alt="Tron">
+    <img src="./icons/trx.png" height="45" >
     <br>Tron
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/sui.png" height="45" alt="Sui">
+    <img src="./icons/sui.png" height="45" >
     <br>Sui
   </td>
 </tr>
 <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Nodejs" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
       <br>Nodejs
     </td>
     <td align="center" width="90">
@@ -117,7 +117,7 @@
       <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
     </td>
     <td align="center" width="90">
@@ -125,7 +125,7 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
       <br>Django
     </td>
     <td align="center" width="90">
@@ -149,50 +149,50 @@
       <br>MySQL
     </td>
   </tr>
-<!-- common / AI & tools -->
+<!-- common -->
   <tr>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/openai.png" height="45" alt="OpenAI" />
+      <img src="./icons/openai.png" width="45" height="45" alt="binance" />
       <br>OpenAI
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/deepseek.svg" height="45" alt="DeepSeek" />
+      <img src="./icons/deepseek.svg" width="45" height="45" alt="DeepSeek" />
       <br>DeepSeek
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/Langchain.svg" height="45" alt="LangChain" />
+      <img src="./icons/Langchain.svg" width="45" height="45" alt="LangChain" />
       <br>LangChain
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/huggingface.svg" height="45" alt="Hugging Face" />
+      <img src="./icons/huggingface.svg" width="45" height="45" alt="HuggingFace" />
       <br>Hugging Face
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/eliza.jpg" height="45" alt="ElizaOS" />
+      <img src="./icons/eliza.jpg" width="45" height="45" alt="Eliza" />
       <br>ElizaOS
     </td>
     <td align="center" width="90">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="45" alt="TensorFlow" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
       <br>TensorFlow
     </td>
     <td align="center" width="90">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="45" alt="PyTorch" />
+      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="55" height="55" />
       <br>PyTorch
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/ollama.svg" height="45" alt="Ollama" />
+      <img src="./icons/ollama.svg" width="45" height="45" alt="Ollama" />
       <br>Ollama
     </td>
     <td align="center" width="90">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="45" alt="FastAPI" />
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
       <br>FastAPI
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/glowhub-1028/glowhub-1028/main/icons/vapi.png" height="45" alt="VApi" />
+      <img src="./icons/vapi.png" width="45" alt="VApi" />
       <br>VApi
     </td>
   </tr>
-
+  
 </table>
 
 ## 🛠️ Languages & Tools
