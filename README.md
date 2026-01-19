@@ -25,28 +25,24 @@
 <table>
   <tbody>
     <tr>
-      <th>
+      <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowhub-1028">
-          <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowhub-1028&theme=gotham&hide_border=true" alt="Repos per Language"/>
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowhub-1028&theme=gotham&hide_border=true" alt="Repos per Language"/>
         </a>
-      </th>
-      <th>
+      </td>
+      <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowhub-1028">
-          <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowhub-1028&theme=gotham&hide_border=true" alt="Most Commit Language"/>
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowhub-1028&theme=gotham&hide_border=true" alt="Most Commit Language"/>
         </a>
-      </th>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
+      </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glowhub-1028">
-          <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glowhub-1028&theme=gotham&hide_border=true" alt="GitHub Stats"/>
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glowhub-1028&theme=gotham&hide_border=true" alt="GitHub Stats"/>
         </a>
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=glowhub-1028">
-          <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=glowhub-1028&theme=gotham&hide_border=true" alt="Productive Time"/>
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=glowhub-1028&theme=gotham&hide_border=true" alt="Productive Time"/>
         </a>
       </td>
     </tr>
