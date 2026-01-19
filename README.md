@@ -25,27 +25,6 @@
 <table>
   <tbody>
     <tr>
-      <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=glowhub-1028">
-          <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=glowhub-1028&theme=gotham&hide_border=true" alt="GitHub Streak Stats">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glowhub-1028">
-          <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glowhub-1028&theme=gotham&hide_border=true" alt="Profile Details"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowhub-1028">
           <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowhub-1028&theme=gotham&hide_border=true" alt="Repos per Language"/>
@@ -294,6 +273,3 @@
 </div>
 
 <br/>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake.svg#gh-light-mode-only)
