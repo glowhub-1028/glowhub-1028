@@ -269,3 +269,10 @@
 </div>
 
 <br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Velez807&icon=2&color=9)](https://visitcount.itsvg.in)
+<br/>
